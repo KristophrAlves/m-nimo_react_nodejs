@@ -2,3 +2,4 @@ add express cors
 add sucrase --dev
 add nodemon --dev 
 add mongoose dotenv 
+add bcryptjs
